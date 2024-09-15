@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eshalshaikh07
 - 👀 I’m interested in tech based projects and coding
-- 🌱 I’m currently learning cpp,python,esp 
+- 🌱I'm currently learning React, Node.js, and ROS2 
 - 📫 How to reach me gmail (eshalshaikh45@gmail.com) instagram-eshal.skh
 - 😄 Pronouns:she/her
 
