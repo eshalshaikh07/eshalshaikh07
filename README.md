@@ -8,7 +8,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Engineering Sophemore | Contributor @girlscript <br>
-📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/eshal-shaikh-528680291)<br>
+📫 How to reach me:  (https://www.linkedin.com/in/eshal-shaikh-528680291)<br>
 💬 Ask me about IOT/Embedded Systems<br>
 <!--- Adding Tech Stack open Section -->
 
