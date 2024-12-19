@@ -1,6 +1,18 @@
 # 💫 About Me:
-👋 Hello, and welcome to my GitHub space! I'm Eshal Shaikh, Engineering Sophomore and a contributer @GSSOC. I enjoy blending technology to solve real-world problems. <br>
+I am Eshal Shaikh, a passionate and driven B.Tech undergraduate in Electronics and Telecommunication Engineering (ENTC) at PCCOE Pune 🎓. My curiosity and love for technology have fueled my journey into the world of embedded systems and IoT, where I thrive on turning creative ideas into practical solutions 💡.
 
+I’ve had the privilege of working on several exciting projects, including:
+
+🌡️ Real-time data monitoring systems to track environmental parameters like temperature, humidity, and chemical concentrations.
+🎮 A potentiometer-based steering wheel simulator, integrating hardware with gaming controls to provide a realistic driving experience.
+🚗 A Bluetooth-controlled car, showcasing the seamless fusion of microcontrollers and remote control technology.
+🔐 Secure login and sign-up systems using Firebase to ensure user authentication.
+🖼️ QR code generators for efficient and innovative information sharing.
+I enjoy learning and experimenting with microcontrollers like ESP32 and finding new ways to leverage their potential in solving real-world problems. Whether it’s diving into a complex project or discovering the latest trends in technology, I’m always eager to challenge myself and grow 🌱.
+
+Beyond the technical realm, I find joy in meeting new people, exchanging ideas 🤝, and collaborating with like-minded individuals. I’m a lifelong learner who thrives on acquiring new skills and adapting to challenges. My hobbies include exploring emerging technologies, innovative problem-solving, and creating impactful solutions that make a difference ✨.
+
+Let’s connect and create something amazing together! 🚀 </br>
 
 
 ## 🧑🏻‍💻 Languages:
