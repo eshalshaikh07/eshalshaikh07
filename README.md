@@ -11,18 +11,7 @@ I’ve had the privilege of working on several exciting projects, including:
 I enjoy learning and experimenting with microcontrollers like ESP32 and finding new ways to leverage their potential in solving real-world problems. Whether it’s diving into a complex project or discovering the latest trends in technology, I’m always eager to challenge myself and grow 🌱.
 
 Beyond the technical realm, I find joy in meeting new people, exchanging ideas 🤝, and collaborating with like-minded individuals. I’m a lifelong learner who thrives on acquiring new skills and adapting to challenges. My hobbies include exploring emerging technologies, innovative problem-solving, and creating impactful solutions that make a difference ✨.
-
-Let’s connect and create something amazing together! 🚀 </br>
-
-
-## 🧑🏻‍💻 Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-# 💻 Tech Stack:
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/) 
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)](https://firebase.google.com/) 
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://vercel.com/) 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)](https://www.raspberrypi.com/) 
+</br>
 
 
 # 🏆 GSSOC'24 Badges
